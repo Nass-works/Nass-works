@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nass-works
 - 👀 I’m interested in building web apps
 - 🌱 I’m currently learning how to make a bot
-- 💞️ I’m looking web designers dm me
-- 📫 How to reach me whatsapp +234812333273
+- 💞️ I’m looking for web designers dm me
+- 📫 How to reach me on whatsapp +234812333273
 
 <!---
 Nass-works/Nass-works is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
