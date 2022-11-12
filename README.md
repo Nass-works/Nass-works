@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nass-works
 - 👀 I’m interested in building web apps
-- 🌱 I’m currently learning how to make a bot
+- 🌱 I’m currently learning how C++. Python. C and other programming languages
 - 💞️ I’m looking for web designers dm me
 - 📫 How to reach me on whatsapp +234812333273
 
