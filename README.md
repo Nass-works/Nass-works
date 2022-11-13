@@ -1,4 +1,3 @@
-https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif
 
 👋 Hi, I’m @Nass-works
 - 👀 I’m interested in building web apps
