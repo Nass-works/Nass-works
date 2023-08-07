@@ -7,8 +7,13 @@
 </h1>
 
 <h1 align="center">WELCOME TO MY GITHUB PROFILE
+.
+.
+.
+.
+.
+.
 
-<i>CAN WE GET MUCH HIGHER</i>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 <!---
