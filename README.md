@@ -6,8 +6,8 @@
 <h1 align="center"> NASS-WORKS
 </h1>
 
-<h1 align="center">WELCOME TO MY GITHUB PROFILE
-<br>
+<h1 align="center">WELCOME TO MY GITHUB PROFILE </h1>h1?
+/<br>
   
     
     
@@ -26,6 +26,20 @@
 - 🌀 Fun fact: I love to listen to **music** and watch **anime/movies/series.**
     
     <br>
+
+  
+   <br>
+    
+# 📫 How to reach me:
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347069096801)  
+   
+<br>
+<h2 align="center"> Running and improvig myself day by day...
+</h2>
+
+<p align="center"><a href="https://github.com/Kai0071">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
