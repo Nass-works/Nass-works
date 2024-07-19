@@ -29,7 +29,7 @@
    <br>
     
 # 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347069096801)  
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()  
    
 <br>
 <h2 align="center"> Running and improvig myself day by day...
