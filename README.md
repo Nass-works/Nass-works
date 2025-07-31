@@ -13,15 +13,15 @@
 <h3 align="left">More:</h3>
 <p align="left">
 
-- 🙋🏻‍♂️ I am a **student** and a passionate **self learner** :)
+- 😎 I am an AI expert and ofcourse a professional content creator :)
 
-- 👻 Currently learning **Kotlin, C++ etc.** for my own interest.
+- 👻 Currently on vacation.
 
-- ⚡ Active participant in **Hackerone & CTFs.**
+- ⚡ Active participant in anything that makes me money 🤑 💰.
 
-- ✨ Also curious about **WhatsApp Bot**.
+- ✨ Also curious about Artificial intelligence and how we can profit out of it.
 
-- 🌀 Fun fact: I love to listen to **music** and watch **anime/movies/series.**
+- 🌀 Fun fact: I love to showoff my money, listen to **music** and visit new places.
     
     <br>
 
@@ -32,7 +32,7 @@
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()  
    
 <br>
-<h2 align="center"> Running and improvig myself day by day...
+<h2 align="center"> Running and improving myself daily...
 </h2>
 
 <p align="center"><a href="https://github.com/Kai0071">
