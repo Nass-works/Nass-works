@@ -19,7 +19,7 @@
 
 - ⚡ Active participant in anything that makes me money 🤑 💰.
 
-- ✨ Also curious about Artificial intelligence and how we can profit out of it.
+- ✨ Also curious about what a transparent plane made with my name on it would look like😂.
 
 - 🌀 Fun fact: I love to showoff my money, listen to **music** and visit new places.
     
