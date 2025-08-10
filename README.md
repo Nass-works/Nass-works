@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com">
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="610">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYm5qNGp1cWVzbmplZmlpejE4MTR3OHc1eHY5dG5sMDN2cHhiNmhwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1GVriVuTDUDkNnp89/giphy.gif" width="610">
      
 </p>
 
@@ -17,7 +17,7 @@
 
 - 👻 Currently on vacation.
 
-- ⚡ Active participant in anything that makes me money 🤑 💰.
+- ⚡ Active participant in anything that makes me "money 🤑 💰.
 
 - ✨ Also curious about what a transparent plane made with my name on it would look like😂.
 
