@@ -13,15 +13,15 @@
 <h3 align="left">More:</h3>
 <p align="left">
 
-- 😎 I am an AI expert and ofcourse a professional content creator :)
+- 😎 AI expert & professional content creator. :)
 
 - 👻 Currently on vacation.
 
-- ⚡ Active participant in anything that makes me "money 🤑 💰.
+- ⚡ Always diving into projects that make me money 🤑💰.
 
-- ✨ Also curious about what a transparent plane made with my name on it would look like😂.
+- ✨ Curious what a transparent plane with my name on it would look like 😂.
 
-- 🌀 Fun fact: I love to showoff my money, listen to **music** and visit new places.
+- 🌀 Fun fact: I love showing off my cash, vibing to music, and exploring new places.
     
     <br>
 
