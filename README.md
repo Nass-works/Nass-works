@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWt1cTEwaDR1NTltdGtwczNidTk0aTU5azcyZ3o4ZDZwMGZ0Mm45ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ymfmvJMnDKIR17gysQ/giphy.gif" width="610">
+    <img src="https://postimg.cc/gxW7sjr0" width="610">
      
 </p>
 
