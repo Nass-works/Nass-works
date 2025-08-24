@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com">
-    <img src="https://postimg.cc/gxW7sjr0" width="610">
+    <img src="" width="610">
      
 </p>
 
