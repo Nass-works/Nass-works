@@ -23,7 +23,7 @@
 
 - ✨ Curious what a transparent plane with my name on it would look like 😂.
 
-- 🌀 Fun fact: I love showing off my cash, vibing to music, and exploring new places.
+- 🌀 Fun fact: I love showing off my achievements, vibing to music, and exploring new places.
     
     <br>
 
