@@ -15,7 +15,7 @@
 <h3 align="left">More:</h3>
 <p align="left">
 
-- 😎 I'M AN AI EXPERT AND OF COURSE A PRO IN MAKING CONTENTS IN THAT FIELD. :)
+- 😎 I'M AN AI EXPERT :)
 
 - 👻 Currently on vacation.
 
